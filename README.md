@@ -1,7 +1,10 @@
 # ThesisCode
-Code for the Bachelor Thesis Project on Serial Dependence. For data, contact f.r.a.m.ruijs@students.uu.nl
+Code for the Bachelor Thesis Project on Serial Dependence.
 
-Make sure all files are in the same folder.
+Data unavailable for request (as I am not the owner).
+Scripts can only run if you have the raw dataset that belongs to this project.
+
+Make sure all files and the raw dataset are in the same folder.
 Filenames starting with H1_ are part of the main analysis.
 Filenames starting with EX_ are part of the exploratory analysis.
 
