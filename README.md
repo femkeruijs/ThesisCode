@@ -5,9 +5,12 @@ Make sure all files are in the same folder.
 Filenames starting with H1_ are part of the main analysis.
 Filenames starting with EX_ are part of the exploratory analysis.
 
-Run PERMUTATION_TEST.m before running H1_SD_COMBINED to create the necessary the amp.diffs variable. 
+Run PERMUTATION_TEST.m before running H1_SD_COMBINED to create the necessary amp.diffs variable. 
 
-Amplitudes in the lineartests.m file are currently hardcoded. Update these values accordingly if changes are made to the analyses they are taken from.
+Amplitudes in the lineartests.m file are currently hardcoded. 
+Update these values accordingly if changes are made to the analyses they are taken from (scripts starting with EX_).
+
+Enjoy!
 
 
 
