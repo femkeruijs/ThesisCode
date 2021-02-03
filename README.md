@@ -10,8 +10,7 @@ Filenames starting with EX_ are part of the exploratory analysis.
 
 Run PERMUTATION_TEST.m before running H1_SD_COMBINED to create the necessary amp.diffs variable. 
 
-Amplitudes in the lineartests.m file are currently hardcoded. 
-Update these values accordingly if changes are made to the analyses they are taken from (scripts starting with EX_).
+Run all EX_SEPERATE() codes before running EX_LINEAR_MODELS.m to create the necessary amplitudes for linear analysis.
 
 Enjoy!
 
