@@ -55,6 +55,5 @@ for i = 1:3
 end
 
 %%save image
-sgtitle('.')
 b=gcf;
 exportgraphics(b,'Linear_regression_amplitudes.png','Resolution',720);
